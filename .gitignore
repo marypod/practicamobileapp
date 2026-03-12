@@ -1,0 +1,14 @@
+.gradle/
+build/
+# IDE files
+.idea/
+*.iml
+local.properties
+# Android
+.cxx/
+captures/
+.externalNativeBuild/
+# OS files
+.DS_Store
+gradle-daemon-jvm.properties
+**/gradle-daemon-jvm.properties
